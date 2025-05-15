@@ -1,0 +1,10 @@
+pypdf
+langchain
+pytest
+boto3
+torch
+langchain-community
+openai
+sentence-transformers
+chromadb
+
